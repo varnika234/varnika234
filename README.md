@@ -23,6 +23,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varnika-gangwar-91074b22a)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varnikagangwar31@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-gfg-profile/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-profile/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-profile/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-profile/)  
+
 
 # 💻 Tech Stack:
 
@@ -60,9 +65,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=varnika234&theme=nightowl&hide_border=false" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnika234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=varnika234&icon=0&color=0)](https://visitcount.itsvg.in)
