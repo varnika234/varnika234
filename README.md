@@ -56,12 +56,9 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=varnika234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"/>
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=varnika234&theme=nightowl&hide_border=false"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnika234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=varnika234&theme=nightowl&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnika234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 </p>
 
 ### ✍️ Random Dev Quote
